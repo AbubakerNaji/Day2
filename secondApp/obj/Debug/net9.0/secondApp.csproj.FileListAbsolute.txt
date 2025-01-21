@@ -1,0 +1,15 @@
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/bin/Debug/net9.0/secondApp
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/bin/Debug/net9.0/secondApp.deps.json
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/bin/Debug/net9.0/secondApp.runtimeconfig.json
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/bin/Debug/net9.0/secondApp.dll
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/bin/Debug/net9.0/secondApp.pdb
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.AssemblyInfoInputs.cache
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.AssemblyInfo.cs
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.csproj.CoreCompileInputs.cache
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.sourcelink.json
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.dll
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/refint/secondApp.dll
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.pdb
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/secondApp.genruntimeconfig.cache
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/secondApp/obj/Debug/net9.0/ref/secondApp.dll
