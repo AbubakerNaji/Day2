@@ -34,6 +34,7 @@ pipeline{
                 echo 'Running the app'
               sh 'echo "Current directory:" && pwd' // Display the current working directory
         sh 'cd $WORKSPACE/secondApp && pwd' // Navigate to secondApp and show its path
+        sh 'pwd'
         sh 'dotnet run && pwd' 
                 echo 'Done running the app'
             }
