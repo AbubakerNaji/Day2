@@ -13,11 +13,13 @@ pipeline{
             }
         }
         stage('Restore'){
+                 steps{
             echo 'Restoring the app'
                 sh 'cd $WORKSPACE/secondApp'
 
          sh 'dotnet restore'
          echo 'Done restoring the app'
+                 }
         }
         stage('Build'){
             steps{
@@ -34,8 +36,7 @@ pipeline{
             }
         }
     }
-}
-post
+    post
 {
     success{
         echo 'The app has been built successfully'
@@ -43,4 +44,5 @@ post
     failure{
         echo 'The app has failed to build'
     }
+}
 }
