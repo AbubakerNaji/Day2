@@ -24,6 +24,7 @@ pipeline{
         stage('Build'){
             steps{
                 echo 'Building the app'
+                sh 'cd $WORKSPACE/secondApp'
                 sh 'dotnet build'
                 echo 'Done building the app'
             }
@@ -31,6 +32,7 @@ pipeline{
         stage('Run'){
             steps{
                 echo 'Running the app'
+                sh 'cd $WORKSPACE/secondApp'
                 sh 'dotnet run'
                 echo 'Done running the app'
             }
