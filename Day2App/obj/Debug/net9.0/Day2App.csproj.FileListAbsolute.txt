@@ -1,0 +1,14 @@
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/bin/Debug/net9.0/Day2App
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/bin/Debug/net9.0/Day2App.deps.json
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/bin/Debug/net9.0/Day2App.runtimeconfig.json
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/bin/Debug/net9.0/Day2App.dll
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/bin/Debug/net9.0/Day2App.pdb
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/Day2App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/Day2App.AssemblyInfoInputs.cache
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/Day2App.AssemblyInfo.cs
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/Day2App.csproj.CoreCompileInputs.cache
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/Day2App.dll
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/refint/Day2App.dll
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/Day2App.pdb
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/Day2App.genruntimeconfig.cache
+/Users/abubakernaji/Desktop/Courses/CICDTraining/Day2/Day2App/obj/Debug/net9.0/ref/Day2App.dll
