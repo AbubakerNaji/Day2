@@ -1,4 +1,4 @@
-pipleline{
+pipeline{
     agent any
     environment{
        DOTNET_ROOT = '/usr/local/share/dotnet' // Path to the .NET SDK
