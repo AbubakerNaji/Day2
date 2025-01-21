@@ -32,8 +32,9 @@ pipeline{
         stage('Run'){
             steps{
                 echo 'Running the app'
-                sh 'cd $WORKSPACE/secondApp'
-                sh 'dotnet run'
+              sh 'echo "Current directory:" && pwd' // Display the current working directory
+        sh 'cd $WORKSPACE/secondApp && pwd' // Navigate to secondApp and show its path
+        sh 'dotnet run && pwd' 
                 echo 'Done running the app'
             }
         }
