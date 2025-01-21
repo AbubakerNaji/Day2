@@ -5,7 +5,8 @@ List<Employee> employees = new List<Employee> {
     new Employee { Id = 1, Name = "Abubaker", Designation = "Manager", Salary = "10000", DoJ = new DateTime(2010, 1, 1) },
     new Employee { Id = 2, Name = "Farhat", Designation = "Developer", Salary = "5000", DoJ = new DateTime(2015, 1, 1) },
     new Employee { Id = 3, Name = "Ahmed", Designation = "TestDesignerer", Salary = "3000", DoJ = new DateTime(2020, 1, 1) },
-    new Employee { Id = 4, Name = "Ali", Designation = "Designer", Salary = "4000", DoJ = new DateTime(2018, 1, 1) }
+    new Employee { Id = 4, Name = "Ali", Designation = "Designer", Salary = "4000", DoJ = new DateTime(2018, 1, 1) },
+    new Employee { Id = 5, Name = "Sara", Designation = "Developer", Salary = "6000", DoJ = new DateTime(2016, 1, 1) },
 };
 
 Console.WriteLine("Number of Employees: " + employees.Count);
