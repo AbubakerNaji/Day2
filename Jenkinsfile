@@ -29,6 +29,12 @@ pipeline{
                 echo 'Done building the app'
             }
         }
+           stage('Test'){
+            steps{
+                echo 'Testing out the code'
+                 sh 'cd $WORKSPACE/secondApp && dotnet test --no-build --verbosity normal' 
+            }
+        }
         stage('Run'){
             steps{
                 echo 'Running the app'
