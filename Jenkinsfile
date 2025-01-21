@@ -44,6 +44,16 @@ pipeline{
                 echo 'Done running the app'
             }
         }
+        statge('Publish'){
+            steps{
+                echo 'Publishing the app'
+                sh '''
+                cd $WORKSPACE/secondApp
+                dotnet publish -c Release -o ./publish
+                '''
+                echo 'Done publishing the app'
+            }
+        }
     }
     post
 {
