@@ -44,7 +44,7 @@ pipeline{
                 echo 'Done running the app'
             }
         }
-        statge('Publish'){
+        stage('Publish'){
             steps{
                 echo 'Publishing the app'
                 sh '''
